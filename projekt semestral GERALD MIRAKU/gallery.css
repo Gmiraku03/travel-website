@@ -1,0 +1,172 @@
+
+.all{
+    max-width: 1200px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 300px;
+   color: white;
+}
+body{
+    background-image:linear-gradient(#53b0f7,#4ccbee);
+    color: white;
+    font-family: 'Nunito', sans-serif;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+main{
+    min-height: 200px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+section{
+    min-height: 200px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.card1{
+    min-height: 300px;
+    width: 30%;
+    
+    }
+
+    .card2{
+        min-height: 300px;
+        width: 30%;
+        
+
+    }
+    .card3{
+        min-height: 300px;
+        width:30% ;
+       
+    }
+    .desc{
+        
+        width: 65%;
+    
+    }
+    .foto{
+        width: 30%;
+
+    }
+
+    .logo img{
+        height: 130px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    footer{
+        min-height: 200px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    .descr1{
+        height: 250px;
+        width:45%;
+    }
+
+    .descr2{
+        height: 250px;
+        width:45%;
+    }
+    .descr3{
+        height: 250px;
+        width:45%;
+        margin-top: 130px;
+        margin-bottom: 100px;
+    }
+    .descr4{
+        height: 250px;
+        width:45%;
+        margin-top: 130px;
+    }
+    .a{
+        border: 2px solid white;
+        text-decoration: none;
+        color: white;
+        padding: 10px 15px;
+        margin-left: 10px;
+        border-radius: 15px;
+    }
+     .a:hover{
+        background-color: white;
+        color: #3A99E4;
+     }
+     .footer
+     {
+        text-align: center;
+        font-size: 0.8rem;
+         font-style: italic;
+        line: height 1.4rem;
+        margin-top: 50px;
+     }
+    .card1 img{
+        height: 240px;
+        border: white solid 1px;
+        border-radius: 30px;
+        
+    }
+    .card2 img{
+        height: 240px;
+        border: white solid 1px;
+        border-radius: 30px;
+        
+    }
+    .card3 img{
+        height: 240px;
+        border: white solid 1px;
+        border-radius: 30px;
+    }
+
+    .descr1 img{
+        height: 350px;
+        border: white solid 1px;
+        border-radius: 30px;
+    }
+    .descr2 img{
+        height: 350px;
+        border: white solid 1px;
+        border-radius: 30px;
+    }
+    .descr3 img{
+        height: 350px;
+        border: white solid 1px;
+        border-radius: 30px;
+    }
+    .descr4 img{
+        height: 350px;
+        border: white solid 1px;
+        border-radius: 30px;
+    }
+    .logo img{
+        height: 90px;
+    }
+    .logo h3{
+        margin-top: 1px;
+        margin-left: 15px;
+    }
+    .T{
+        background-color: white;
+        color: white;
+        text-decoration: none;
+    }
+
+   img:hover{
+        transform: scale(1.5);
+    }
+
+    img:hover{
+        
+        transform: scale(1.2);
+        opacity: 1;
+    }
+    

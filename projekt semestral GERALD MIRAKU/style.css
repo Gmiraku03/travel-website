@@ -1,0 +1,203 @@
+.all{
+    max-width: 1200px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 300px;
+   color: white;
+  
+
+}
+body{
+    background-image:linear-gradient(#3A99E4,#0EB3DF);
+    color: white;
+    font-family: 'Nunito', sans-serif;
+}
+header{
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+main{
+    min-height: 200px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+section{
+    min-height: 200px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    font-family: ARIAL BLACK;
+    letter-spacing: 0.008rem;
+}
+.card1{
+    min-height: 250px;
+    width: 30%;
+    background-image: url(img1.jpg);
+    background-size: cover;
+    text-align: center;
+    border: white solid 1px;
+    border-radius: 20px;
+    }
+
+    .card2{
+        min-height: 250px;
+        width: 30%;
+        background-image: url(img2.jpg);
+        background-size: cover;
+        text-align: center;
+        border: white solid 1px;
+        border-radius: 20px;
+    }
+    .card3{
+        min-height: 250px;
+        width:30% ;
+        background-image: url(IMG4.jpeg);
+        background-size: cover;
+    text-align: center;
+    border: white solid 1px;
+    border-radius: 20px;
+
+    }
+    .card3:hover{
+        background-size: cover;
+        background-image: url(https://media.tacdn.com/media/attractions-splice-spp-674x446/07/98/ac/63.jpg);
+    }
+    .card1:hover{
+        background-size: cover;
+        background-image: url(https://scrolltheglobe.com/wp-content/uploads/2021/06/GJIROKASTER_9.jpg);
+    }
+    .card2:hover{
+        background-size: cover;
+        background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ksamill-1.jpg/800px-Ksamill-1.jpg);
+    }
+    .desc{
+        
+        width: 65%;
+      
+    }
+    .foto{
+      
+        width: 30%;
+        
+    }
+
+    .logo img{
+        height: 100px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    .nav{
+        
+    }
+
+    .desc{
+        min-height: 210px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    .descr1{
+        height: 210px;
+        width:45%;
+        border: white solid 1px;
+        padding: 10px;
+        border-radius: 30px;
+        
+    }
+
+    .descr2{
+        height:210px;
+        width:45%;
+        border: white solid 1px;
+        padding: 10px;
+        border-radius: 30px;
+    }
+    .descr3{
+        height: 210px;
+        width:45%;
+        border: white solid 1px;
+        padding: 10px;
+        border-radius: 30px;
+        margin-top: 20px;
+    }
+    .descr4{
+        height: 210px;
+        width:45%;
+        border: white solid 1px;
+        padding: 10px;
+        border-radius: 30px;
+        margin-top: 20px;
+        margin-left: 22px;
+    }
+    .descr1:hover{
+        color: black
+    }
+    .descr2:hover{
+        color: black
+    }
+    .descr3:hover{
+        color: black
+    }
+    .descr4:hover{
+        color: black
+    }
+    .logo img{
+        height: 90px;
+    }
+    .a{
+        border: 2px solid white;
+        text-decoration: none;
+        color: white;
+        padding: 10px 15px;
+        margin-left: 10px;
+        border-radius: 15px;
+    }
+     .a:hover{
+        background-color: white;
+        color: #3A99E4;
+     }
+     .a2:hover{
+        background-color:white;
+        color: whitesmoke;
+     }
+     .a2{
+        text-decoration: none;
+        color: white;
+     }
+     .footer
+     {
+        text-align: center;
+        font-size: 0.8rem;
+         font-style: italic;
+        line: height 1.4rem;
+        margin-top: 50px;
+     }
+     .foto img{
+        height: 200px;
+        border: white solid 1px;
+        border-radius: 20px;
+     }
+     .alb{
+        text-align: center;
+        margin-top: 50px;
+     }
+     .VENDE{
+        text-align: center;
+        font-family: arial BLACK;
+     
+     }
+     .descr{
+        min-height: 200px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+       text-align: justify;
+     }
